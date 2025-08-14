@@ -1,0 +1,5 @@
+[project]
+name = "kingdeemcp"
+version = "0.1.0"
+description = "金蝶云星空 MCP Server：让 Claude/Cursor 等 AI 助手用自然语言直接查询、操作 ERP（采购/销售/库存/财务等 97 个工具）"
+requires-python = ">=3.10"
